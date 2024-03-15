@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KNCVATOR-REACT-JS-TASK/static/css/main.f9b52556.css",
+    "main.js": "/KNCVATOR-REACT-JS-TASK/static/js/main.505ceb3d.js",
+    "static/js/453.d754ce70.chunk.js": "/KNCVATOR-REACT-JS-TASK/static/js/453.d754ce70.chunk.js",
+    "index.html": "/KNCVATOR-REACT-JS-TASK/index.html",
+    "main.f9b52556.css.map": "/KNCVATOR-REACT-JS-TASK/static/css/main.f9b52556.css.map",
+    "main.505ceb3d.js.map": "/KNCVATOR-REACT-JS-TASK/static/js/main.505ceb3d.js.map",
+    "453.d754ce70.chunk.js.map": "/KNCVATOR-REACT-JS-TASK/static/js/453.d754ce70.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b52556.css",
+    "static/js/main.505ceb3d.js"
+  ]
+}
